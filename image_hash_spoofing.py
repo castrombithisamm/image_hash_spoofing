@@ -44,7 +44,7 @@ def modify_image_binary(image_path, target_prefix, max_attempts=100000):
         
         # Check if the modified hash matches the desired prefix
         if modified_hash.startswith(target_prefix[2:]):
-            print(f"Success! The modified image hash starts with {target_prefix}")
+            print(f"Success! The modified imagee hash starts with {target_prefix}")
             print(f"Modified hash: {modified_hash}")
             return modified_image_path
         
