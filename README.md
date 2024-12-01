@@ -1,7 +1,3 @@
-Apologies for the misunderstanding earlier. Here's a refined version of the `README.md` that corresponds to the actual code and approach you're using (without the Pillow library):
-
----
-
 # Image Hash Spoofing Tool
 
 ## Problem Statement
